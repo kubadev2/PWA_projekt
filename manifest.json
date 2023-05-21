@@ -1,0 +1,18 @@
+{
+    "theme_color": "#567e29",
+    "background_color": "#567e29",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/PWA_projekt",
+    "name": "Prewodnik po Mazurach",
+    "short_name": "guideApp",
+    "description": "Zaawansowane technologie internetowe - projekt PWA",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "./6.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
